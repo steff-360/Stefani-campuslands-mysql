@@ -52,16 +52,16 @@
       "type": "json",
       "required": true
     },
-    "createdBy": {
+    "created_by_user": {
       "type": "string"
     },
-    "updatedBy": {
+    "updated_by_user": {
       "type": "string"
     },
-    "createdAt": {
+    "created_at_date": {
       "type": "datetime"
     },
-    "updatedAt": {
+    "updated_at_date": {
       "type": "datetime"
     }
   }
